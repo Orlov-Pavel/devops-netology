@@ -1,4 +1,5 @@
 # devops-netology
 Repository for studying
 
-Отмодифицировал
+
+# Описание .gitignore файла в каталоге terraform
